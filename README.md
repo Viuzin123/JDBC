@@ -11,3 +11,5 @@ Java 8+
 MySQL Server + MySQL Workbench
 MySQL Connector/J (Driver JDBC)
 Eclipse IDE
+
+Deixei um arquivo com os comandos para criar e inserir no MySQL no arquivo db.CreateInsert na src.
